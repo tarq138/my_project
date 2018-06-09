@@ -1,4 +1,4 @@
-# myproject_v.0.3
+# my_project
 
 ### Prerequisites
 - Python 3.6+ (x64). 
